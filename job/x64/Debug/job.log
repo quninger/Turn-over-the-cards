@@ -1,0 +1,70 @@
+﻿  game.cpp
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.h(22): warning C4091: “typedef ”: 没有声明变量时忽略“CARDSTATE”的左侧
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.h(28): warning C4091: “typedef ”: 没有声明变量时忽略“GAMEOVERSTATE”的左侧
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(365): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(369): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(392): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(401): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(410): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(419): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(430): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(432): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(436): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(444): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(450): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(457): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(464): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.cpp(475): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  源.cpp
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.h(22): warning C4091: “typedef ”: 没有声明变量时忽略“CARDSTATE”的左侧
+e:\作业\要交的作业\游戏程序设计\大作业\job\job\game.h(28): warning C4091: “typedef ”: 没有声明变量时忽略“GAMEOVERSTATE”的左侧
+  正在生成代码...
+  job.vcxproj -> E:\作业\要交的作业\游戏程序设计\大作业\job\x64\Debug\job.exe
